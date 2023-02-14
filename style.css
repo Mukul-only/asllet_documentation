@@ -147,7 +147,15 @@ hr{
    
 }
 
+.code-box{
+    overflow-y: auto;
+    height: 700px;
+    border-radius: 16px;
+    background-color: rgba(41,44,53,255);
+    font-size:1.2rem;
+    margin:5%;
 
+}
 
 @media (max-width:768px){
     h1{
@@ -181,4 +189,6 @@ hr{
         width:30px;
         height:30px;
     }
+   
 }
+
